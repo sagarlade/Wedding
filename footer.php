@@ -38,6 +38,6 @@
   </div>
 
   <p class="credit">
-    created by <span>Front-End Developer</span> | all rights reserved!
+    created by Mr.<span>Sagar Lade</span> | all rights reserved!
   </p>
 </section>
